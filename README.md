@@ -5,3 +5,6 @@ Convert Text To Pdf with 1 click.
 More coming soon.
 REMINDER:
 I would like to remind you that this project is still WIP so there are not many features yet.
+!IMPORTANT:
+!IF IT SAYS THAT THE APP IS MISSING RENAME THE EXE TO
+WindowsFormsApp2!
